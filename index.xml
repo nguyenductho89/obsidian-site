@@ -6,16 +6,28 @@
       <description>Last 10 notes on Obsidian Site</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>clinical-content</title>
+    <link>https://nguyenductho89.github.io/obsidian-site/clinical-content</link>
+    <guid>https://nguyenductho89.github.io/obsidian-site/clinical-content</guid>
+    <description><![CDATA[ Clinical Content (Nội dung lâm sàng) là thuật ngữ dùng để chỉ các thông tin, dữ liệu và tài liệu chuyên môn trong lĩnh vực y tế, được sử dụng bởi các chuyên gia (bác sĩ, dược sĩ, điều dưỡng) để chẩn đoán, điều trị và chăm sóc bệnh nhân. ]]></description>
+    <pubDate>Mon, 30 Mar 2026 23:19:34 GMT</pubDate>
+  </item><item>
+    <title>Getting Started</title>
+    <link>https://nguyenductho89.github.io/obsidian-site/getting-started</link>
+    <guid>https://nguyenductho89.github.io/obsidian-site/getting-started</guid>
+    <description><![CDATA[ Getting Started How to Add Notes Create .md files in the content/ folder Add frontmatter (title, tags, etc.) at the top of each file Use Obsidian-style wikilinks: [[page-name]] Commit and push to trigger auto-deployment Folder Structure content/ ├── index.md # Homepage ├── getting-started.md # This ... ]]></description>
+    <pubDate>Mon, 30 Mar 2026 23:19:34 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://nguyenductho89.github.io/obsidian-site/</link>
+    <guid>https://nguyenductho89.github.io/obsidian-site/</guid>
+    <description><![CDATA[ Welcome to Obsidian Site This is a self-hosted Obsidian publish site powered by Quartz 4. ]]></description>
+    <pubDate>Mon, 30 Mar 2026 23:19:34 GMT</pubDate>
+  </item><item>
     <title>C3_Clinical_Informatics.excalidraw</title>
     <link>https://nguyenductho89.github.io/obsidian-site/C3_Clinical_Informatics.excalidraw</link>
     <guid>https://nguyenductho89.github.io/obsidian-site/C3_Clinical_Informatics.excalidraw</guid>
     <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
-    <pubDate>Mon, 30 Mar 2026 23:15:57 GMT</pubDate>
-  </item><item>
-    <title>Clinical Content</title>
-    <link>https://nguyenductho89.github.io/obsidian-site/Clinical-Content</link>
-    <guid>https://nguyenductho89.github.io/obsidian-site/Clinical-Content</guid>
-    <description><![CDATA[ Clinical Content (Nội dung lâm sàng) là thuật ngữ dùng để chỉ các thông tin, dữ liệu và tài liệu chuyên môn trong lĩnh vực y tế, được sử dụng bởi các chuyên gia (bác sĩ, dược sĩ, điều dưỡng) để chẩn đoán, điều trị và chăm sóc bệnh nhân. ]]></description>
     <pubDate>Mon, 30 Mar 2026 23:15:57 GMT</pubDate>
   </item><item>
     <title>Quality_Access_Cost_Value.excalidraw</title>
