@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"0ca3016250674dbf","type":"group","x":-840,"y":-320,"width":1175,"height":302,"label":"Clinical System"},
+		{"id":"7e52e88a75ca7985","type":"group","x":300,"y":-1000,"width":985,"height":260,"label":"Outcomes"},
+		{"id":"2e8ff9e0699e2d24","type":"group","x":560,"y":-278,"width":290,"height":219,"label":"Develop"},
+		{"id":"4f6c04a8852163d1","type":"text","text":"Develop","x":-820,"y":-271,"width":250,"height":60},
+		{"id":"5e10e411dfc7d71f","type":"text","text":"Implement","x":-816,"y":-158,"width":250,"height":60},
+		{"id":"aec4c968ee1a399c","type":"text","text":"clinical","x":1110,"y":-980,"width":115,"height":60,"color":"6"},
+		{"id":"7703f01ff7a405e4","type":"text","text":"outcomes","x":810,"y":-900,"width":250,"height":60,"color":"6"},
+		{"id":"28ac3b3a71e9f118","type":"text","text":"operational","x":1110,"y":-840,"width":155,"height":60,"color":"6"},
+		{"id":"515c51216b7da0db","type":"text","text":"Decision support tools","x":580,"y":-139,"width":250,"height":60},
+		{"id":"b7d9e2b7ebf9cc2f","type":"text","text":"ongoing [[Clinical Content]]","x":580,"y":-258,"width":250,"height":60},
+		{"id":"9a4bd2262bb8017f","type":"text","text":"Data Analytics Tools\n- Reports\n- Tables\n- Graphs\n- Charts\n- Predictive Models","x":320,"y":-980,"width":296,"height":220},
+		{"id":"811d4849a15d8b5a","type":"text","text":"Healthcare IT Terms","x":127,"y":-549,"width":250,"height":60},
+		{"id":"9cbf0f2b42a9880c","type":"text","text":"effectiveness","x":65,"y":-300,"width":250,"height":59},
+		{"id":"8f1daa96e316f0fc","type":"text","text":"efficiencies","x":65,"y":-98,"width":250,"height":60},
+		{"id":"ea3395bfb81a3f8e","type":"text","text":"optimize Clinical","x":-185,"y":-218,"width":250,"height":60},
+		{"id":"e050b90fcec84d38","type":"text","text":"Learning Objectives","x":-248,"y":-665,"width":250,"height":60},
+		{"id":"591fe02c7ad75fac","type":"text","text":"Clinical Terms","x":-480,"y":-800,"width":250,"height":60},
+		{"id":"5e00c6924024cf67","type":"text","text":"System functionality","x":-496,"y":-218,"width":250,"height":60},
+		{"id":"eed3d1b9fd6e2b2e","type":"text","text":"Clinical Metrics","x":-559,"y":-549,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"74e944fec457c0d0","fromNode":"e050b90fcec84d38","fromSide":"top","toNode":"591fe02c7ad75fac","toSide":"top"},
+		{"id":"857bb5c467722b47","fromNode":"e050b90fcec84d38","fromSide":"right","toNode":"811d4849a15d8b5a","toSide":"top"},
+		{"id":"293d3e5e0dc5be8a","fromNode":"e050b90fcec84d38","fromSide":"left","toNode":"eed3d1b9fd6e2b2e","toSide":"top"},
+		{"id":"60cd25c7fab62aed","fromNode":"4f6c04a8852163d1","fromSide":"right","toNode":"5e00c6924024cf67","toSide":"left"},
+		{"id":"8bd69cfe8eec3e3f","fromNode":"5e10e411dfc7d71f","fromSide":"right","toNode":"5e00c6924024cf67","toSide":"left"},
+		{"id":"603693d75b6a8532","fromNode":"5e00c6924024cf67","fromSide":"right","toNode":"ea3395bfb81a3f8e","toSide":"left"},
+		{"id":"057280c2f0a90d0f","fromNode":"ea3395bfb81a3f8e","fromSide":"right","toNode":"9cbf0f2b42a9880c","toSide":"bottom"},
+		{"id":"e0e6ca950bfe3b25","fromNode":"ea3395bfb81a3f8e","fromSide":"right","toNode":"8f1daa96e316f0fc","toSide":"top"},
+		{"id":"85fbe2278b8ae601","fromNode":"e050b90fcec84d38","fromSide":"bottom","toNode":"0ca3016250674dbf","toSide":"top"},
+		{"id":"8a572d147c117a92","fromNode":"7703f01ff7a405e4","fromSide":"right","toNode":"aec4c968ee1a399c","toSide":"left"},
+		{"id":"8db044767b769a1d","fromNode":"7703f01ff7a405e4","fromSide":"right","toNode":"28ac3b3a71e9f118","toSide":"left"},
+		{"id":"94628d9b6e2ace4a","fromNode":"9a4bd2262bb8017f","fromSide":"right","toNode":"7703f01ff7a405e4","toSide":"left","color":"1","label":"Interpret"},
+		{"id":"451183c356e8c5d5","fromNode":"e050b90fcec84d38","fromSide":"top","toNode":"7e52e88a75ca7985","toSide":"left"},
+		{"id":"70de165b24c8b2b8","fromNode":"e050b90fcec84d38","fromSide":"bottom","toNode":"2e8ff9e0699e2d24","toSide":"top"}
+	]
+}
