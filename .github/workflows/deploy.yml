@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/quartz-obsidian-publish-setup-T6D5Q
   workflow_dispatch:
 
 permissions:
